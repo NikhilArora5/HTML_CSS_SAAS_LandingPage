@@ -22,7 +22,7 @@ Please check the Live Demo of the Designed Landing Page using the Below Link:-)
 
 ![lIVE-dEMO](https://img.shields.io/badge/Live_Demo-<COLOR>)
 
-[Live-Demo](https://exquisite-bienenstitch-d09f66.netlify.app/)
+[Live-Demo](https://beautiful-clafoutis-4cfda5.netlify.app/)
 
 ## Designed By Nikhil Arora 
 ### Visit ![I-write-code](Outputs/codericon-removebg-preview%20(1).png) [Nikhil's Portfolio](https://nikhilarora-protfolio.netlify.app/)
