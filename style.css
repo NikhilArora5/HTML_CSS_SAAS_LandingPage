@@ -776,7 +776,7 @@ display: none;
 
 @media screen and (max-width:580px){
     .nav-logo{
-        width: 150px;
+        width: 130px;
     }
     .div-hd{
 
@@ -813,6 +813,6 @@ display: none;
     }
 
     .mid-rt-hd{
-        width: 100%;
+        width: 95%;
     }
 }
